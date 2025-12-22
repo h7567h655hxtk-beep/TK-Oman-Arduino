@@ -15,7 +15,7 @@
           "url": "https://github.com/h7567h655hxtk-beep/TK-Oman-Arduino/releases/download/v1.0.0/TKOMAN.zip",
           "archiveFileName": "TKOMAN.zip",
           "checksum": "SHA-256:89986fe9fedf7f4384976447ac15845368174af21ff838d67a22874ee3beff2b",
-          "size": "27514240",
+          "size": "27518370",
           "boards": [
             { "name": "TK OMAN" }
           ],
@@ -26,3 +26,4 @@
   ]
 
 }
+

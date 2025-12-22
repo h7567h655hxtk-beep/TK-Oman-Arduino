@@ -17,7 +17,7 @@
           "checksum": "SHA-256:294e754f8eb7a2fd0bb38b08bfc8738e12b4655055ac4529d8c57ac22085642c",
           "size": "27514240",
           "boards": [
-            { "name": "TK Oman S3" }
+            { "name": "TK OMAN" }
           ],
           "toolsDependencies": []
         }

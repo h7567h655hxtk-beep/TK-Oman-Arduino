@@ -14,7 +14,7 @@
           "category": "ESP32",
           "url": "https://github.com/h7567h655hxtk-beep/TK-Oman-Arduino/releases/download/v1.0.0/TKOMAN.zip",
           "archiveFileName": "TKOMAN.zip",
-          "checksum": "SHA-256:294e754f8eb7a2fd0bb38b08bfc8738e12b4655055ac4529d8c57ac22085642c",
+          "checksum": "SHA-256:89986fe9fedf7f4384976447ac15845368174af21ff838d67a22874ee3beff2b",
           "size": "27514240",
           "boards": [
             { "name": "TK OMAN" }
@@ -24,4 +24,5 @@
       ]
     }
   ]
+
 }

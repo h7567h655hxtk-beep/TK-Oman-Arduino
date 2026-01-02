@@ -10,7 +10,7 @@
         {
           "name": "TK Oman Boards",
           "architecture": "esp32",
-          "version": "1.0.0",
+          "version": "1.9.0",
           "category": "ESP32",
           "url": "https://github.com/h7567h655hxtk-beep/TK-Oman-Arduino/releases/download/v1.0.0/TKOMAN.zip",
           "archiveFileName": "TKOMAN.zip",
@@ -24,4 +24,5 @@
       ]
     }
   ]
+
 }
